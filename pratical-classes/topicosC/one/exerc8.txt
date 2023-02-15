@@ -1,0 +1,13 @@
+1)
+  é seguro dar referências como argumento?
+
+2)
+  não se deve devolver uma referência quando o retorno é um pointer
+  deve-se retornar um novo pointer
+
+3)
+  é uma operação segura
+
+4)
+  int (*h) int é a notação para ter como argumento uma função
+  que retorna um int e tem como argumento um int
